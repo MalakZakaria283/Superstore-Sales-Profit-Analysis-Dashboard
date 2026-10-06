@@ -32,7 +32,7 @@ An executive-level, interactive two-page Power BI dashboard designed to analyze 
 ## 📸 Previews
 
 ### Page 1: Executive Analysis
-![Executive Analysis](ExecutiveAnalysis.png)
+![Executive Analysis](ExcutiveAnalysis.png)
 
 ### Page 2: Product Analysis
 ![Product Analysis](ProductAnalysis.png)
